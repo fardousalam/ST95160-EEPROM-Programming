@@ -1,0 +1,13 @@
+spi_eeprom.c:16:6:EEPROM_SPI_INIT	16	static
+spi_eeprom.c:20:6:EEPROM_ERROR	4	static
+spi_eeprom.c:29:6:EEwrite_byte	24	static
+spi_eeprom.c:52:6:EEread_byte	24	static
+spi_eeprom.c:73:9:EEread_arry	24	static
+spi_eeprom.c:97:9:Erase_memory	2072	static
+spi_eeprom.c:127:6:Write_Enable	16	static
+spi_eeprom.c:134:6:Write_Disable	16	static
+spi_eeprom.c:142:9:Read_Status_Register	16	static
+spi_eeprom.c:155:9:EEPROM_SPI_WaitStandbyState	16	static
+spi_eeprom.c:183:6:Write_Status_Register	24	static
+spi_eeprom.c:208:9:EEwrite_arry	24	static
+spi_eeprom.c:233:9:EEPROM_SPI_WriteBuffer	32	static
