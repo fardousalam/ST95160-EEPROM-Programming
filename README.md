@@ -13,4 +13,12 @@ We often use external memory devices in Embedded project to store some data to i
 1. Page and offset addressing
 2. Error messages when the EEPROM is not able to communicate or Connect with microcontroller
 
+# Requirements
+1. Stm32 nucleo or discovery board
+2. stm32 cube IDE
+3. ST95160 EEPROM
+
+# Installation
+Install the Stm32 cube IDE and Configure the project according to microcontroller.
+
 
